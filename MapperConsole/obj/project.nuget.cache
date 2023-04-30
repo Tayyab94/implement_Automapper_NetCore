@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zum6RZ15o0hu9LkaaLyEel+48hqBVB38L/xSTHkdVhXsbrLnW8/3niCePiUVmcMWKkkfRF5NJIiDDuCF8cK9ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tayya\\Desktop\\MapperApp\\MapperConsole\\MapperConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayya\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

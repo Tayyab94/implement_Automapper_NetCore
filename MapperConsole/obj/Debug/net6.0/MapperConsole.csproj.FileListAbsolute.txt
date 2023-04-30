@@ -1,0 +1,17 @@
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\bin\Debug\net6.0\MapperConsole.exe
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\bin\Debug\net6.0\MapperConsole.deps.json
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\bin\Debug\net6.0\MapperConsole.runtimeconfig.json
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\bin\Debug\net6.0\MapperConsole.dll
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\bin\Debug\net6.0\MapperConsole.pdb
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\MapperConsole.csproj.AssemblyReference.cache
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\MapperConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\MapperConsole.AssemblyInfoInputs.cache
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\MapperConsole.AssemblyInfo.cs
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\MapperConsole.csproj.CoreCompileInputs.cache
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\MapperConsole.csproj.CopyComplete
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\MapperConsole.dll
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\refint\MapperConsole.dll
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\MapperConsole.pdb
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\MapperConsole.genruntimeconfig.cache
+C:\Users\tayya\Desktop\MapperApp\MapperConsole\obj\Debug\net6.0\ref\MapperConsole.dll
